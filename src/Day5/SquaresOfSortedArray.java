@@ -20,7 +20,7 @@ public class SquaresOfSortedArray {
     }
 
     /**
-     *  THIS WITH TIME COMPLEXITY: O(N)
+     *  THIS WITH TIME COMPLEXITY: -5"O(N)
      * @param nums
      * @return
      */

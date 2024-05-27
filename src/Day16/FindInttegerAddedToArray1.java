@@ -1,3 +1,5 @@
+package Day16;
+
 public class FindInttegerAddedToArray1 {
     public static void main(String[] args) {
         int[] nums1 = {2, 6, 4};
